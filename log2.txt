@@ -1,0 +1,740 @@
+==================== 1 ====================
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 1000.0,
+    'class_weight': None,
+    'dual': False,
+    'fit_intercept': True,
+    'intercept_scaling': 1,
+    'l1_ratio': None,
+    'max_iter': 2000,
+    'multi_class': 'warn',
+    'n_jobs': None,
+    'penalty': 'none',
+    'random_state': None,
+    'solver': 'lbfgs',
+    'tol': 10000.0,
+    'verbose': 0,
+    'warm_start': False}
+	 ********** 
+
+LogisticRegression: 0.42268041237113396
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'algorithm': 'SAMME.R',
+    'base_estimator': None,
+    'learning_rate': 1.0,
+    'n_estimators': 200,
+    'random_state': None}
+	 ********** 
+
+AdaBoostClassifier: 0.44793957037968907
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 2.0,
+    'cache_size': 200,
+    'class_weight': None,
+    'coef0': 0.0,
+    'decision_function_shape': 'ovr',
+    'degree': 3,
+    'gamma': 'auto',
+    'kernel': 'rbf',
+    'max_iter': -1,
+    'probability': False,
+    'random_state': None,
+    'shrinking': True,
+    'tol': 0.001,
+    'verbose': False}
+	 ********** 
+
+SVC: 0.42268041237113396
+==================== 2 ====================
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 1000.0,
+    'class_weight': 'balanced',
+    'dual': False,
+    'fit_intercept': True,
+    'intercept_scaling': 1,
+    'l1_ratio': None,
+    'max_iter': 2000,
+    'multi_class': 'warn',
+    'n_jobs': None,
+    'penalty': 'none',
+    'random_state': None,
+    'solver': 'lbfgs',
+    'tol': 100.0,
+    'verbose': 0,
+    'warm_start': False}
+	 ********** 
+
+LogisticRegression: 0.499370985159703
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'algorithm': 'SAMME.R',
+    'base_estimator': None,
+    'learning_rate': 1.0,
+    'n_estimators': 200,
+    'random_state': None}
+	 ********** 
+
+AdaBoostClassifier: 0.44108167684403304
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 3.0,
+    'cache_size': 200,
+    'class_weight': None,
+    'coef0': 0.0,
+    'decision_function_shape': 'ovr',
+    'degree': 3,
+    'gamma': 'auto',
+    'kernel': 'rbf',
+    'max_iter': -1,
+    'probability': False,
+    'random_state': None,
+    'shrinking': True,
+    'tol': 0.001,
+    'verbose': False}
+	 ********** 
+
+SVC: 0.42268041237113396
+==================== 3 ====================
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 1000.0,
+    'class_weight': None,
+    'dual': False,
+    'fit_intercept': True,
+    'intercept_scaling': 1,
+    'l1_ratio': None,
+    'max_iter': 2000,
+    'multi_class': 'warn',
+    'n_jobs': None,
+    'penalty': 'none',
+    'random_state': None,
+    'solver': 'lbfgs',
+    'tol': 10000.0,
+    'verbose': 0,
+    'warm_start': False}
+	 ********** 
+
+LogisticRegression: 0.42268041237113396
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'algorithm': 'SAMME.R',
+    'base_estimator': None,
+    'learning_rate': 1.0,
+    'n_estimators': 200,
+    'random_state': None}
+	 ********** 
+
+AdaBoostClassifier: 0.44172932330827064
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 2.0,
+    'cache_size': 200,
+    'class_weight': None,
+    'coef0': 0.0,
+    'decision_function_shape': 'ovr',
+    'degree': 3,
+    'gamma': 'auto',
+    'kernel': 'rbf',
+    'max_iter': -1,
+    'probability': False,
+    'random_state': None,
+    'shrinking': True,
+    'tol': 0.001,
+    'verbose': False}
+	 ********** 
+
+SVC: 0.42268041237113396
+==================== 4 ====================
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 1000.0,
+    'class_weight': 'balanced',
+    'dual': False,
+    'fit_intercept': True,
+    'intercept_scaling': 1,
+    'l1_ratio': None,
+    'max_iter': 2000,
+    'multi_class': 'warn',
+    'n_jobs': None,
+    'penalty': 'none',
+    'random_state': None,
+    'solver': 'lbfgs',
+    'tol': 100.0,
+    'verbose': 0,
+    'warm_start': False}
+	 ********** 
+
+LogisticRegression: 0.499370985159703
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'algorithm': 'SAMME.R',
+    'base_estimator': None,
+    'learning_rate': 1.0,
+    'n_estimators': 200,
+    'random_state': None}
+	 ********** 
+
+AdaBoostClassifier: 0.44108167684403304
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 1.0,
+    'cache_size': 200,
+    'class_weight': None,
+    'coef0': 0.0,
+    'decision_function_shape': 'ovr',
+    'degree': 3,
+    'gamma': 'auto',
+    'kernel': 'rbf',
+    'max_iter': -1,
+    'probability': False,
+    'random_state': None,
+    'shrinking': True,
+    'tol': 0.001,
+    'verbose': False}
+	 ********** 
+
+SVC: 0.42268041237113396
+==================== 5 ====================
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 1000.0,
+    'class_weight': None,
+    'dual': False,
+    'fit_intercept': True,
+    'intercept_scaling': 1,
+    'l1_ratio': None,
+    'max_iter': 2000,
+    'multi_class': 'warn',
+    'n_jobs': None,
+    'penalty': 'none',
+    'random_state': None,
+    'solver': 'lbfgs',
+    'tol': 10000.0,
+    'verbose': 0,
+    'warm_start': False}
+	 ********** 
+
+LogisticRegression: 0.4430379746835443
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'algorithm': 'SAMME.R',
+    'base_estimator': None,
+    'learning_rate': 1.0,
+    'n_estimators': 200,
+    'random_state': None}
+	 ********** 
+
+AdaBoostClassifier: 0.5036513022237731
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 2.0,
+    'cache_size': 200,
+    'class_weight': None,
+    'coef0': 0.0,
+    'decision_function_shape': 'ovr',
+    'degree': 3,
+    'gamma': 'auto',
+    'kernel': 'rbf',
+    'max_iter': -1,
+    'probability': False,
+    'random_state': None,
+    'shrinking': True,
+    'tol': 0.001,
+    'verbose': False}
+	 ********** 
+
+SVC: 0.4430379746835443
+==================== 6 ====================
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 1000.0,
+    'class_weight': 'balanced',
+    'dual': False,
+    'fit_intercept': True,
+    'intercept_scaling': 1,
+    'l1_ratio': None,
+    'max_iter': 2000,
+    'multi_class': 'warn',
+    'n_jobs': None,
+    'penalty': 'none',
+    'random_state': None,
+    'solver': 'lbfgs',
+    'tol': 100.0,
+    'verbose': 0,
+    'warm_start': False}
+	 ********** 
+
+LogisticRegression: 0.5615863820215505
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'algorithm': 'SAMME.R',
+    'base_estimator': None,
+    'learning_rate': 1.0,
+    'n_estimators': 200,
+    'random_state': None}
+	 ********** 
+
+AdaBoostClassifier: 0.49673202614379075
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 3.0,
+    'cache_size': 200,
+    'class_weight': None,
+    'coef0': 0.0,
+    'decision_function_shape': 'ovr',
+    'degree': 3,
+    'gamma': 'auto',
+    'kernel': 'rbf',
+    'max_iter': -1,
+    'probability': False,
+    'random_state': None,
+    'shrinking': True,
+    'tol': 0.001,
+    'verbose': False}
+	 ********** 
+
+SVC: 0.4723852425213336
+==================== 7 ====================
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 1000.0,
+    'class_weight': None,
+    'dual': False,
+    'fit_intercept': True,
+    'intercept_scaling': 1,
+    'l1_ratio': None,
+    'max_iter': 2000,
+    'multi_class': 'warn',
+    'n_jobs': None,
+    'penalty': 'none',
+    'random_state': None,
+    'solver': 'lbfgs',
+    'tol': 10000.0,
+    'verbose': 0,
+    'warm_start': False}
+	 ********** 
+
+LogisticRegression: 0.4430379746835443
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'algorithm': 'SAMME.R',
+    'base_estimator': None,
+    'learning_rate': 1.0,
+    'n_estimators': 200,
+    'random_state': None}
+	 ********** 
+
+AdaBoostClassifier: 0.5036513022237731
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 3.0,
+    'cache_size': 200,
+    'class_weight': None,
+    'coef0': 0.0,
+    'decision_function_shape': 'ovr',
+    'degree': 3,
+    'gamma': 'auto',
+    'kernel': 'rbf',
+    'max_iter': -1,
+    'probability': False,
+    'random_state': None,
+    'shrinking': True,
+    'tol': 0.001,
+    'verbose': False}
+	 ********** 
+
+SVC: 0.4430379746835443
+==================== 8 ====================
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 1000.0,
+    'class_weight': None,
+    'dual': False,
+    'fit_intercept': True,
+    'intercept_scaling': 1,
+    'l1_ratio': None,
+    'max_iter': 2000,
+    'multi_class': 'warn',
+    'n_jobs': None,
+    'penalty': 'none',
+    'random_state': None,
+    'solver': 'lbfgs',
+    'tol': 10000.0,
+    'verbose': 0,
+    'warm_start': False}
+	 ********** 
+
+LogisticRegression: 0.4430379746835443
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'algorithm': 'SAMME.R',
+    'base_estimator': None,
+    'learning_rate': 1.0,
+    'n_estimators': 200,
+    'random_state': None}
+	 ********** 
+
+AdaBoostClassifier: 0.5036513022237731
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 3.0,
+    'cache_size': 200,
+    'class_weight': None,
+    'coef0': 0.0,
+    'decision_function_shape': 'ovr',
+    'degree': 3,
+    'gamma': 'auto',
+    'kernel': 'rbf',
+    'max_iter': -1,
+    'probability': False,
+    'random_state': None,
+    'shrinking': True,
+    'tol': 0.001,
+    'verbose': False}
+	 ********** 
+
+SVC: 0.4430379746835443
+==================== 9 ====================
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 1,
+    'class_weight': 'balanced',
+    'dual': False,
+    'fit_intercept': True,
+    'intercept_scaling': 1,
+    'l1_ratio': None,
+    'max_iter': 2000,
+    'multi_class': 'warn',
+    'n_jobs': None,
+    'penalty': 'l2',
+    'random_state': None,
+    'solver': 'lbfgs',
+    'tol': 100.0,
+    'verbose': 0,
+    'warm_start': False}
+	 ********** 
+
+LogisticRegression: 0.5615863820215505
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'algorithm': 'SAMME.R',
+    'base_estimator': None,
+    'learning_rate': 1.0,
+    'n_estimators': 200,
+    'random_state': None}
+	 ********** 
+
+AdaBoostClassifier: 0.49673202614379075
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 3.0,
+    'cache_size': 200,
+    'class_weight': None,
+    'coef0': 0.0,
+    'decision_function_shape': 'ovr',
+    'degree': 3,
+    'gamma': 'auto',
+    'kernel': 'rbf',
+    'max_iter': -1,
+    'probability': False,
+    'random_state': None,
+    'shrinking': True,
+    'tol': 0.001,
+    'verbose': False}
+	 ********** 
+
+SVC: 0.4659885568976478
+==================== 10 ====================
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 1,
+    'class_weight': 'balanced',
+    'dual': False,
+    'fit_intercept': True,
+    'intercept_scaling': 1,
+    'l1_ratio': None,
+    'max_iter': 2000,
+    'multi_class': 'warn',
+    'n_jobs': None,
+    'penalty': 'l2',
+    'random_state': None,
+    'solver': 'lbfgs',
+    'tol': 100.0,
+    'verbose': 0,
+    'warm_start': False}
+	 ********** 
+
+LogisticRegression: 0.5628899835796387
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'algorithm': 'SAMME.R',
+    'base_estimator': None,
+    'learning_rate': 1.0,
+    'n_estimators': 200,
+    'random_state': None}
+	 ********** 
+
+AdaBoostClassifier: 0.49673202614379075
+==================== Iterating on splits ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== Sending the classifiers for the current split ====================
+==================== macro ====================
+==================== macro ====================
+	 ********** 
+
+{   'C': 3.0,
+    'cache_size': 200,
+    'class_weight': None,
+    'coef0': 0.0,
+    'decision_function_shape': 'ovr',
+    'degree': 3,
+    'gamma': 'auto',
+    'kernel': 'rbf',
+    'max_iter': -1,
+    'probability': False,
+    'random_state': None,
+    'shrinking': True,
+    'tol': 0.001,
+    'verbose': False}
+	 ********** 
+
+SVC: 0.4667011241762502
